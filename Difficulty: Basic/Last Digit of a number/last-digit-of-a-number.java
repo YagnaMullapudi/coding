@@ -1,10 +1,7 @@
 class Solution {
-    public static void utility(int n) {
-
-        // just complete below statement
-        int ans = Math.abs(n % 10);
-
-        // below statement print the result
-        System.out.println(ans);
+    public int lastDigit(int n) {
+        // If n is negative, convert it to positive
+        n = Math.abs(n);
+        return n % 10;
     }
 }
