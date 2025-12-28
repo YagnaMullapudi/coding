@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YagnaMullapudi/coding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YagnaMullapudi/coding/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YagnaMullapudi/coding/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
