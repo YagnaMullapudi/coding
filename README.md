@@ -26,4 +26,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YagnaMullapudi/coding/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/YagnaMullapudi/coding/tree/master/0756-pyramid-transition-matrix) |
+## String
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/YagnaMullapudi/coding/tree/master/0756-pyramid-transition-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/YagnaMullapudi/coding/tree/master/0756-pyramid-transition-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/YagnaMullapudi/coding/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
