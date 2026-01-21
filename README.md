@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/YagnaMullapudi/coding/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/YagnaMullapudi/coding/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/YagnaMullapudi/coding/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/YagnaMullapudi/coding/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/YagnaMullapudi/coding/tree/master/0756-pyramid-transition-matrix) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/YagnaMullapudi/coding/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Math
 |  |
 | ------- |
