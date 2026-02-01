@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YagnaMullapudi/coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/YagnaMullapudi/coding/tree/master/0058-length-of-last-word) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/YagnaMullapudi/coding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/YagnaMullapudi/coding/tree/master/0756-pyramid-transition-matrix) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/YagnaMullapudi/coding/tree/master/2977-minimum-cost-to-convert-string-ii) |
