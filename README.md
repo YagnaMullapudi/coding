@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/YagnaMullapudi/coding/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -112,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/YagnaMullapudi/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
@@ -175,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YagnaMullapudi/coding/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
