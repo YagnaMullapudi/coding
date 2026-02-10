@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YagnaMullapudi/coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/YagnaMullapudi/coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/YagnaMullapudi/coding/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3719-longest-balanced-subarray-i](https://github.com/YagnaMullapudi/coding/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/YagnaMullapudi/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YagnaMullapudi/coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/YagnaMullapudi/coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/YagnaMullapudi/coding/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -183,8 +185,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/YagnaMullapudi/coding/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/YagnaMullapudi/coding/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/YagnaMullapudi/coding/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
