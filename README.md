@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/YagnaMullapudi/coding/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/YagnaMullapudi/coding/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/YagnaMullapudi/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/YagnaMullapudi/coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/YagnaMullapudi/coding/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/YagnaMullapudi/coding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/YagnaMullapudi/coding/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/YagnaMullapudi/coding/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YagnaMullapudi/coding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/YagnaMullapudi/coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/YagnaMullapudi/coding/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/YagnaMullapudi/coding/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Linked List
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/YagnaMullapudi/coding/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/YagnaMullapudi/coding/tree/master/1390-four-divisors) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/YagnaMullapudi/coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/YagnaMullapudi/coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YagnaMullapudi/coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/YagnaMullapudi/coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/YagnaMullapudi/coding/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/YagnaMullapudi/coding/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/YagnaMullapudi/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/YagnaMullapudi/coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/YagnaMullapudi/coding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YagnaMullapudi/coding/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sliding Window
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/YagnaMullapudi/coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3714-longest-balanced-substring-ii](https://github.com/YagnaMullapudi/coding/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/YagnaMullapudi/coding/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/YagnaMullapudi/coding/tree/master/3721-longest-balanced-subarray-ii) |
