@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YagnaMullapudi/coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/YagnaMullapudi/coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YagnaMullapudi/coding/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/YagnaMullapudi/coding/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/YagnaMullapudi/coding/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/YagnaMullapudi/coding/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/YagnaMullapudi/coding/tree/master/3721-longest-balanced-subarray-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/YagnaMullapudi/coding/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YagnaMullapudi/coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/YagnaMullapudi/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/YagnaMullapudi/coding/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/YagnaMullapudi/coding/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/YagnaMullapudi/coding/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YagnaMullapudi/coding/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/YagnaMullapudi/coding/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/YagnaMullapudi/coding/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Linked List
 |  |
