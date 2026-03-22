@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/YagnaMullapudi/coding/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/YagnaMullapudi/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/YagnaMullapudi/coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YagnaMullapudi/coding/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/YagnaMullapudi/coding/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/YagnaMullapudi/coding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/YagnaMullapudi/coding/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YagnaMullapudi/coding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/YagnaMullapudi/coding/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/YagnaMullapudi/coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YagnaMullapudi/coding/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/YagnaMullapudi/coding/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/YagnaMullapudi/coding/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YagnaMullapudi/coding/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
