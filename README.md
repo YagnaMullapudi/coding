@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YagnaMullapudi/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YagnaMullapudi/coding/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/YagnaMullapudi/coding/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/YagnaMullapudi/coding/tree/master/0088-merge-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YagnaMullapudi/coding/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/YagnaMullapudi/coding/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/YagnaMullapudi/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YagnaMullapudi/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YagnaMullapudi/coding/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YagnaMullapudi/coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/YagnaMullapudi/coding/tree/master/0088-merge-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/YagnaMullapudi/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/YagnaMullapudi/coding/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/YagnaMullapudi/coding/tree/master/0088-merge-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/YagnaMullapudi/coding/tree/master/1200-minimum-absolute-difference) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/YagnaMullapudi/coding/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/YagnaMullapudi/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
