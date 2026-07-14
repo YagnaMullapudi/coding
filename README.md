@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YagnaMullapudi/coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
@@ -141,12 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YagnaMullapudi/coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YagnaMullapudi/coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
@@ -249,5 +252,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YagnaMullapudi/coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [2751-robot-collisions](https://github.com/YagnaMullapudi/coding/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
