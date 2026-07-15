@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YagnaMullapudi/coding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/YagnaMullapudi/coding/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/YagnaMullapudi/coding/tree/master/0100-same-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/YagnaMullapudi/coding/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YagnaMullapudi/coding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/YagnaMullapudi/coding/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YagnaMullapudi/coding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/YagnaMullapudi/coding/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
