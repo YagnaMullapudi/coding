@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/YagnaMullapudi/coding/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/YagnaMullapudi/coding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/YagnaMullapudi/coding/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/YagnaMullapudi/coding/tree/master/0136-single-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YagnaMullapudi/coding/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/YagnaMullapudi/coding/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/YagnaMullapudi/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/YagnaMullapudi/coding/tree/master/0136-single-number) |
 | [0756-pyramid-transition-matrix](https://github.com/YagnaMullapudi/coding/tree/master/0756-pyramid-transition-matrix) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/YagnaMullapudi/coding/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Math
