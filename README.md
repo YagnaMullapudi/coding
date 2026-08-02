@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/YagnaMullapudi/coding/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/YagnaMullapudi/coding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/YagnaMullapudi/coding/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/YagnaMullapudi/coding/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/YagnaMullapudi/coding/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/YagnaMullapudi/coding/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/YagnaMullapudi/coding/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/YagnaMullapudi/coding/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/YagnaMullapudi/coding/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/YagnaMullapudi/coding/tree/master/0756-pyramid-transition-matrix) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/YagnaMullapudi/coding/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Math
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/YagnaMullapudi/coding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/YagnaMullapudi/coding/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/YagnaMullapudi/coding/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/YagnaMullapudi/coding/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/YagnaMullapudi/coding/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/YagnaMullapudi/coding/tree/master/1390-four-divisors) |
