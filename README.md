@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YagnaMullapudi/coding/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/YagnaMullapudi/coding/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/YagnaMullapudi/coding/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/YagnaMullapudi/coding/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/YagnaMullapudi/coding/tree/master/1390-four-divisors) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/YagnaMullapudi/coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/YagnaMullapudi/coding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YagnaMullapudi/coding/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YagnaMullapudi/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/YagnaMullapudi/coding/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/YagnaMullapudi/coding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/YagnaMullapudi/coding/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/YagnaMullapudi/coding/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -285,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YagnaMullapudi/coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [2751-robot-collisions](https://github.com/YagnaMullapudi/coding/tree/master/2751-robot-collisions) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/YagnaMullapudi/coding/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
