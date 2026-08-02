@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YagnaMullapudi/coding/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/YagnaMullapudi/coding/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/YagnaMullapudi/coding/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/YagnaMullapudi/coding/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/YagnaMullapudi/coding/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/YagnaMullapudi/coding/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/YagnaMullapudi/coding/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/YagnaMullapudi/coding/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/YagnaMullapudi/coding/tree/master/1390-four-divisors) |
