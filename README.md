@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/YagnaMullapudi/coding/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/YagnaMullapudi/coding/tree/master/0069-sqrtx) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YagnaMullapudi/coding/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YagnaMullapudi/coding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/YagnaMullapudi/coding/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/YagnaMullapudi/coding/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/YagnaMullapudi/coding/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/YagnaMullapudi/coding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/YagnaMullapudi/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YagnaMullapudi/coding/tree/master/0342-power-of-four) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/YagnaMullapudi/coding/tree/master/0509-fibonacci-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/YagnaMullapudi/coding/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
