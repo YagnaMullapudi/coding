@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/YagnaMullapudi/coding/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/YagnaMullapudi/coding/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/YagnaMullapudi/coding/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/YagnaMullapudi/coding/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/YagnaMullapudi/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YagnaMullapudi/coding/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/YagnaMullapudi/coding/tree/master/0509-fibonacci-number) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/YagnaMullapudi/coding/tree/master/0258-add-digits) |
 | [2751-robot-collisions](https://github.com/YagnaMullapudi/coding/tree/master/2751-robot-collisions) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YagnaMullapudi/coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/YagnaMullapudi/coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/YagnaMullapudi/coding/tree/master/0175-combine-two-tables) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/YagnaMullapudi/coding/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
