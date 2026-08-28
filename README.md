@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/YagnaMullapudi/coding/tree/master/0344-reverse-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/YagnaMullapudi/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/YagnaMullapudi/coding/tree/master/3643-flip-square-submatrix-vertically) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/YagnaMullapudi/coding/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/YagnaMullapudi/coding/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/YagnaMullapudi/coding/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/YagnaMullapudi/coding/tree/master/3714-longest-balanced-substring-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/YagnaMullapudi/coding/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YagnaMullapudi/coding/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/YagnaMullapudi/coding/tree/master/3713-longest-balanced-substring-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/YagnaMullapudi/coding/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
