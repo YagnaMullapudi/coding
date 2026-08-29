@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/YagnaMullapudi/coding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2751-robot-collisions](https://github.com/YagnaMullapudi/coding/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/YagnaMullapudi/coding/tree/master/2906-construct-product-matrix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/YagnaMullapudi/coding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/YagnaMullapudi/coding/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YagnaMullapudi/coding/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/YagnaMullapudi/coding/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/YagnaMullapudi/coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/YagnaMullapudi/coding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2751-robot-collisions](https://github.com/YagnaMullapudi/coding/tree/master/2751-robot-collisions) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/YagnaMullapudi/coding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YagnaMullapudi/coding/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YagnaMullapudi/coding/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Sliding Window
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/YagnaMullapudi/coding/tree/master/0258-add-digits) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/YagnaMullapudi/coding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
