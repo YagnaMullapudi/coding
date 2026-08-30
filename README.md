@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YagnaMullapudi/coding/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/YagnaMullapudi/coding/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/YagnaMullapudi/coding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/YagnaMullapudi/coding/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2751-robot-collisions](https://github.com/YagnaMullapudi/coding/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/YagnaMullapudi/coding/tree/master/2906-construct-product-matrix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/YagnaMullapudi/coding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/YagnaMullapudi/coding/tree/master/1382-balance-a-binary-search-tree) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/YagnaMullapudi/coding/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/YagnaMullapudi/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/YagnaMullapudi/coding/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
