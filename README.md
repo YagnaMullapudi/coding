@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YagnaMullapudi/coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/YagnaMullapudi/coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YagnaMullapudi/coding/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/YagnaMullapudi/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/YagnaMullapudi/coding/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/YagnaMullapudi/coding/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/YagnaMullapudi/coding/tree/master/3719-longest-balanced-subarray-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/YagnaMullapudi/coding/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/YagnaMullapudi/coding/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YagnaMullapudi/coding/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/YagnaMullapudi/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/YagnaMullapudi/coding/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/YagnaMullapudi/coding/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Linked List
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/YagnaMullapudi/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YagnaMullapudi/coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/YagnaMullapudi/coding/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/YagnaMullapudi/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3713-longest-balanced-substring-i](https://github.com/YagnaMullapudi/coding/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/YagnaMullapudi/coding/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/YagnaMullapudi/coding/tree/master/3719-longest-balanced-subarray-i) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/YagnaMullapudi/coding/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/YagnaMullapudi/coding/tree/master/0756-pyramid-transition-matrix) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/YagnaMullapudi/coding/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/YagnaMullapudi/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/YagnaMullapudi/coding/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YagnaMullapudi/coding/tree/master/0112-path-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/YagnaMullapudi/coding/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/YagnaMullapudi/coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union Find
 |  |
 | ------- |
